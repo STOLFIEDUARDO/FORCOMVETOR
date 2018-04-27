@@ -1,6 +1,0 @@
-C:\Users\104957\Documents\GitHub\lista-for\ExemploVetorComFor\ExemploVetorComFor\bin\Debug\ExemploVetorComFor.exe.config
-C:\Users\104957\Documents\GitHub\lista-for\ExemploVetorComFor\ExemploVetorComFor\obj\Debug\ExemploVetorComFor.csprojResolveAssemblyReference.cache
-C:\Users\104957\Documents\GitHub\lista-for\ExemploVetorComFor\ExemploVetorComFor\bin\Debug\ExemploVetorComFor.exe
-C:\Users\104957\Documents\GitHub\lista-for\ExemploVetorComFor\ExemploVetorComFor\bin\Debug\ExemploVetorComFor.pdb
-C:\Users\104957\Documents\GitHub\lista-for\ExemploVetorComFor\ExemploVetorComFor\obj\Debug\ExemploVetorComFor.exe
-C:\Users\104957\Documents\GitHub\lista-for\ExemploVetorComFor\ExemploVetorComFor\obj\Debug\ExemploVetorComFor.pdb
